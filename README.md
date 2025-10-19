@@ -1,3 +1,3 @@
 # to-do-list<br>
-project
+mini project
 
